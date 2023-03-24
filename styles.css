@@ -344,16 +344,15 @@ header.sticky{
 .gallary-text p{
 	position: absolute;
 	z-index: 1;
-	margin: 20px 40%;
-	padding: 30px;
+	margin: 0px 40%;
 }
 .gallary-text h2{
 	position: absolute;
 	z-index: 1;
 	font-size: var(--h2-font);
 	line-height: 1;
-	margin: 20px 20%;
-	padding: 50px;
+	margin: 20px 10%;
+	padding: 10px;
 	text-align: center;
 	font-size: var(--big-font);
 }
